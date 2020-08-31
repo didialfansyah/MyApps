@@ -1,0 +1,19 @@
+.containerT{
+    color: #2d3436;
+    margin: 10px;
+}
+
+    .card{
+        width: 90%;
+        margin: 0 auto;
+        padding : 10px 30px;
+        background: #2d3436;
+        color: #fff;
+        text-align: justify;
+        box-sizing: border-box;
+    }
+
+    .card a{
+        color: #00b894;
+        text-decoration: none;
+    }
